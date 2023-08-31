@@ -1,0 +1,15 @@
+.planet-item {
+  height: 200px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.planet-item-image {
+  height: 100%;
+  font-size: large;
+}
+.planet-item-title {
+  color: white;
+}
+.planet-item-description {
+}
